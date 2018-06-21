@@ -1,4 +1,4 @@
-package com.zen;
+package com.zen.binarysearchtree;
 
 import java.util.ArrayList;
 

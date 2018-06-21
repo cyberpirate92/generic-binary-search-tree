@@ -1,8 +1,8 @@
-package com.zen;
+package com.zen.binarysearchtree;
 
 import java.util.Scanner;
 
-public class Main {
+public class Driver {
     public static void main(String[] args) {
         BinarySearchTree<Integer> bst = new BinarySearchTree<Integer>();
 

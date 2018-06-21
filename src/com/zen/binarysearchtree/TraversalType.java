@@ -1,4 +1,4 @@
-package com.zen;
+package com.zen.binarysearchtree;
 
 public enum TraversalType {
     INORDER,

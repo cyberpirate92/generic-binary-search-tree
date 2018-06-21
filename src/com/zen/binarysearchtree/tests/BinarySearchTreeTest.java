@@ -1,7 +1,7 @@
-package com.zen.tests;
+package com.zen.binarysearchtree.tests;
 
-import com.zen.BinarySearchTree;
-import com.zen.TraversalType;
+import com.zen.binarysearchtree.BinarySearchTree;
+import com.zen.binarysearchtree.TraversalType;
 
 import java.util.ArrayList;
 

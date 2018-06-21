@@ -4,7 +4,6 @@ public class Trie {
     public TrieNode rootNode;
 
     public Trie() {
-        /* root node is a special node and doesn't contain any character */
         rootNode = new TrieNode();
     }
 
